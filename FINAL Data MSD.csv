@@ -1,0 +1,613 @@
+Index,Runs,Opposition,Ground,Date,Inns,Position,Dismissal,Match_ID,BF,4s,6s,SR,Match_Type
+1,0,v Bangladesh,Chattogram,23-12-2004,1,7,Run Out,ODI # 2199,1,0,0,0,ODI
+2,12,v Bangladesh,Dhaka,26-12-2004,2,7,Caught,ODI # 2201,11,2,0,109.09,ODI
+3,7,v Bangladesh,Dhaka,27-12-2004,1,7,Not Out,ODI # 2202,2,0,1,350,ODI
+4,3,v Pakistan,Kochi,02-04-2005,1,7,Caught,ODI # 2235,7,0,0,42.85,ODI
+5,148,v Pakistan,Visakhapatnam,05-04-2005,1,3,Caught,ODI # 2236,123,15,4,120.32,ODI
+6,28,v Pakistan,Jamshedpur,09-04-2005,2,3,Caught,ODI # 2237,24,5,0,116.66,ODI
+7,47,v Pakistan,Ahmedabad,12-04-2005,1,3,Caught,ODI # 2238,64,4,1,73.43,ODI
+8,11,v Pakistan,Kanpur,15-04-2005,1,3,Caught,ODI # 2239,16,1,0,68.75,ODI
+9,24,v Pakistan,Delhi,17-04-2005,2,3,Caught,ODI # 2240,38,2,0,63.15,ODI
+10,2,v Sri Lanka,Dambulla,30-07-2005,1,2,Bowled,ODI # 2262,7,0,0,28.57,ODI
+11,15,v West Indies,Dambulla,31-07-2005,2,6,Not Out,ODI # 2263,11,1,1,136.36,ODI
+12,20,v Sri Lanka,Dambulla,03-08-2005,1,4,Caught,ODI # 2265,27,1,0,74.07,ODI
+13,28,v West Indies,Colombo (RPS),07-08-2005,1,7,Not Out,ODI # 2267,13,1,2,215.38,ODI
+14,7,v Sri Lanka,Colombo (RPS),09-08-2005,2,6,Lbw,ODI # 2268,11,0,0,63.63,ODI
+15,2,v New Zealand,Bulawayo,26-08-2005,2,7,Caught,ODI # 2273,5,0,0,40,ODI
+16,56,v Zimbabwe,Harare,29-08-2005,1,6,Caught,ODI # 2274,46,2,4,121.73,ODI
+17,37,v New Zealand,Harare,02-09-2005,2,6,Not Out,ODI # 2278,27,3,2,137.03,ODI
+18,67,v Zimbabwe,Harare,04-09-2005,2,7,Not Out,ODI # 2280,63,1,3,106.34,ODI
+19,11,v New Zealand,Harare,06-09-2005,1,7,Lbw,ODI # 2281,16,1,0,68.75,ODI
+20,38,v Sri Lanka,Nagpur,25-10-2005,1,6,Caught,ODI # 2286,28,3,2,135.71,ODI
+21,DNB,v Sri Lanka,Mohali,28-10-2005,2,DNB,DNB,ODI # 2287,0,0,0,0,ODI
+22,183,v Sri Lanka,Jaipur,31-10-2005,2,3,Not Out,ODI # 2290,145,15,10,126.2,ODI
+23,45,v Sri Lanka,Pune,03-11-2005,2,6,Not Out,ODI # 2291,43,1,2,104.65,ODI
+24,0,v Sri Lanka,Ahmedabad,06-11-2005,1,3,Lbw,ODI # 2294,1,0,0,0,ODI
+25,DNB,v Sri Lanka,Rajkot,09-11-2005,2,DNB,DNB,ODI # 2295,0,0,0,0,ODI
+26,80,v Sri Lanka,Vadodara,12-11-2005,2,4,Caught,ODI # 2296,73,9,3,109.58,ODI
+27,17,v South Africa,Hyderabad,16-11-2005,1,8,Run Out,ODI # 2297,28,1,0,60.71,ODI
+28,DNB,v South Africa,Bengaluru,19-11-2005,2,DNB,DNB,ODI # 2298,0,0,0,0,ODI
+29,14,v South Africa,Eden Gardens,25-11-2005,1,8,Caught,ODI # 2299,26,0,0,53.84,ODI
+30,12,v South Africa,Wankhede,28-11-2005,2,6,Caught,ODI # 2300,26,1,0,46.15,ODI
+31,30,v Sri Lanka,Chennai,02-12-2005,1,7,Caught,Test # 1775,54,6,0,55.55,Test
+32,5,v Sri Lanka,Delhi,10-12-2005,1,7,Bowled,Test # 1776,12,1,0,41.66,Test
+33,51,v Sri Lanka,Delhi,10-12-2005,3,8,Not Out,Test # 1776,51,5,2,100,Test
+34,49,v Sri Lanka,Ahmedabad,18-12-2005,1,7,Lbw,Test # 1778,62,7,0,79.03,Test
+35,14,v Sri Lanka,Ahmedabad,18-12-2005,3,7,Lbw,Test # 1778,20,1,0,70,Test
+36,DNB,v Pakistan,Lahore,13-01-2006,2,DNB,DNB,Test # 1781,0,0,0,0,Test
+37,DNB,v Pakistan,Faisalabad,21-01-2006,4,DNB,DNB,Test # 1782,0,0,0,0,Test
+38,148,v Pakistan,Faisalabad,21-01-2006,2,6,Stumped,Test # 1782,153,19,4,96.73,Test
+39,13,v Pakistan,Karachi,29-01-2006,2,7,Caught,Test # 1783,13,3,0,100,Test
+40,18,v Pakistan,Karachi,29-01-2006,4,7,Caught,Test # 1783,35,4,0,51.42,Test
+41,68,v Pakistan,Peshawar,06-02-2006,1,4,Caught,ODI # 2324,53,11,1,128.3,ODI
+42,DNB,v Pakistan,Rawalpindi,11-02-2006,2,DNB,DNB,ODI # 2327,0,0,0,0,ODI
+43,72,v Pakistan,Lahore,13-02-2006,2,7,Not Out,ODI # 2329,46,13,0,156.52,ODI
+44,2,v Pakistan,Multan,16-02-2006,2,7,Not Out,ODI # 2331,5,0,0,40,ODI
+45,77,v Pakistan,Karachi,19-02-2006,2,4,Not Out,ODI # 2333,56,6,4,137.5,ODI
+46,16,v England,Nagpur,01-03-2006,4,5,Caught,Test # 1785,21,1,0,76.19,Test
+47,5,v England,Nagpur,01-03-2006,2,7,Caught,Test # 1785,10,1,0,50,Test
+48,DNB,v England,Mohali,09-03-2006,4,DNB,DNB,Test # 1788,0,0,0,0,Test
+49,16,v England,Mohali,09-03-2006,2,6,Caught,Test # 1788,22,3,0,72.72,Test
+50,64,v England,Wankhede,18-03-2006,2,6,Run Out,Test # 1791,118,10,0,54.23,Test
+51,5,v England,Wankhede,18-03-2006,4,8,Caught,Test # 1791,11,0,0,45.45,Test
+52,20,v England,Delhi,28-03-2006,1,8,Caught,ODI # 2357,28,2,0,71.42,ODI
+53,38,v England,Faridabad,31-03-2006,2,7,Bowled,ODI # 2358,55,2,0,69.09,ODI
+54,13,v England,Margao,03-04-2006,1,7,Not Out,ODI # 2359,6,1,1,216.66,ODI
+55,10,v England,Kochi,06-04-2006,2,7,Not Out,ODI # 2360,13,1,0,76.92,ODI
+56,96,v England,Jamshedpur,12-04-2006,1,2,Caught,ODI # 2361,106,10,3,90.56,ODI
+57,3,v Pakistan,Abu Dhabi,18-04-2006,1,7,Bowled,ODI # 2363,10,0,0,30,ODI
+58,59,v Pakistan,Abu Dhabi,19-04-2006,1,3,Bowled,ODI # 2364,72,5,0,81.94,ODI
+59,18,v West Indies,Kingston,18-05-2006,2,6,Caught,ODI # 2377,11,2,1,163.63,ODI
+60,2,v West Indies,Kingston,20-05-2006,2,7,Bowled,ODI # 2379,7,0,0,28.57,ODI
+61,15,v West Indies,Basseterre,23-05-2006,1,5,Run Out,ODI # 2380,26,1,0,57.69,ODI
+62,46,v West Indies,Port of Spain,26-05-2006,1,6,Not Out,ODI # 2381,58,6,0,79.31,ODI
+63,14,v West Indies,Port of Spain,28-05-2006,2,3,Bowled,ODI # 2382,19,2,0,73.68,ODI
+64,69,v West Indies,St John's,02-06-2006,3,7,Caught,Test # 1805,52,4,6,132.69,Test
+65,19,v West Indies,St John's,02-06-2006,1,7,Caught,Test # 1805,27,2,0,70.37,Test
+66,9,v West Indies,Gros Islet,10-06-2006,1,7,Caught,Test # 1806,34,0,0,26.47,Test
+67,20,v West Indies,Basseterre,22-06-2006,4,5,Caught,Test # 1807,32,0,2,62.5,Test
+68,29,v West Indies,Basseterre,22-06-2006,2,7,Lbw,Test # 1807,56,5,0,51.78,Test
+69,3,v West Indies,Kingston,30-06-2006,1,7,Caught,Test # 1808,4,0,0,75,Test
+70,19,v West Indies,Kingston,30-06-2006,3,7,Bowled,Test # 1808,39,4,0,48.71,Test
+71,DNB,v Sri Lanka,Colombo (SSC),18-08-2006,1,DNB,DNB,ODI # 2405,0,0,0,0,ODI
+72,2,v West Indies,Kuala Lumpur,14-09-2006,1,5,Bowled,ODI # 2414,10,0,0,20,ODI
+73,DNB,v Australia,Kuala Lumpur,16-09-2006,2,DNB,DNB,ODI # 2416,0,0,0,0,ODI
+74,18,v West Indies,Kuala Lumpur,20-09-2006,1,6,Bowled,ODI # 2419,13,4,0,138.46,ODI
+75,23,v Australia,Kuala Lumpur,22-09-2006,2,7,Caught,ODI # 2421,34,0,1,67.64,ODI
+76,7,v England,Jaipur,15-10-2006,2,6,Caught,ODI # 2429,22,0,0,31.81,ODI
+77,51,v West Indies,Ahmedabad,26-10-2006,1,6,Run Out,ODI # 2437,65,1,2,78.46,ODI
+78,28,v Australia,Mohali,29-10-2006,1,6,Lbw,ODI # 2440,23,2,0,121.73,ODI
+79,14,v South Africa,Durban,22-11-2006,2,5,Caught,ODI # 2447,27,3,0,51.85,ODI
+80,55,v South Africa,Cape Town,26-11-2006,2,6,Caught,ODI # 2449,48,3,4,114.58,ODI
+81,26,v South Africa,Gqeberha,29-11-2006,2,6,Caught,ODI # 2452,21,4,1,123.8,ODI
+82,0,v South Africa,Johannesburg,01-12-2006,2,4,Bowled,T20I # 10,2,0,0,0,T20
+83,44,v South Africa,Centurion,03-12-2006,1,5,Caught,ODI # 2458,49,2,2,89.79,ODI
+84,18,v South Africa,Johannesburg,15-12-2006,3,7,Caught,Test # 1823,25,3,0,72,Test
+85,5,v South Africa,Johannesburg,15-12-2006,1,7,Caught,Test # 1823,20,0,0,25,Test
+86,34,v South Africa,Durban,26-12-2006,2,7,Caught,Test # 1825,39,7,0,87.17,Test
+87,47,v South Africa,Durban,26-12-2006,4,7,Caught,Test # 1825,67,10,0,70.14,Test
+88,62,v West Indies,Nagpur,21-01-2007,1,4,Not Out,ODI # 2480,42,3,4,147.61,ODI
+89,6,v West Indies,Cuttack,24-01-2007,1,6,Caught,ODI # 2485,19,0,0,31.57,ODI
+90,40,v West Indies,Vadodara,31-01-2007,1,5,Not Out,ODI # 2493,20,1,3,200,ODI
+91,DNB,v Sri Lanka,Eden Gardens,08-02-2007,DNB,DNB,DNB,ODI # 2514,0,0,0,0,ODI
+92,48,v Sri Lanka,Rajkot,11-02-2007,2,6,Caught,ODI # 2520,68,1,0,70.58,ODI
+93,67,v Sri Lanka,Margao,14-02-2007,2,6,Not Out,ODI # 2522,74,4,0,90.54,ODI
+94,DNB,v Sri Lanka,Visakhapatnam,17-02-2007,2,DNB,DNB,ODI # 2525,0,0,0,0,ODI
+95,0,v Bangladesh,Port of Spain,17-03-2007,1,7,Caught,ODI # 2538,3,0,0,0,ODI
+96,29,v Bermuda,Port of Spain,19-03-2007,1,4,Caught,ODI # 2542,25,2,1,116,ODI
+97,0,v Sri Lanka,Port of Spain,23-03-2007,2,7,Lbw,ODI # 2550,1,0,0,0,ODI
+98,91,v Bangladesh,Mirpur,10-05-2007,2,3,Not Out,ODI # 2582,106,7,0,85.84,ODI
+99,36,v Bangladesh,Mirpur,12-05-2007,1,3,Caught,ODI # 2583,54,4,0,66.66,ODI
+100,17,v Bangladesh,Chattogram,18-05-2007,3,6,Not Out,Test # 1832,17,1,1,100,Test
+101,36,v Bangladesh,Chattogram,18-05-2007,1,6,Caught,Test # 1832,38,6,0,94.73,Test
+102,51,v Bangladesh,Mirpur,25-05-2007,1,6,Not Out,Test # 1833,50,3,4,102,Test
+103,2,v Africa XI,Bengaluru,06-06-2007,1,7,Run Out,ODI # 2587,4,0,0,50,ODI
+104,33,v Africa XI,Chennai,09-06-2007,1,4,Bowled,ODI # 2588,38,2,2,86.84,ODI
+105,139,v Africa XI,Chennai,10-06-2007,1,7,Not Out,ODI # 2589,97,15,5,143.29,ODI
+106,0,v South Africa,Belfast,29-06-2007,2,5,Bowled,ODI # 2593,4,0,0,0,ODI
+107,14,v South Africa,Belfast,01-07-2007,2,6,Not Out,ODI # 2595,11,2,0,127.27,ODI
+108,0,v England,Lord's,19-07-2007,2,8,Caught,Test # 1840,5,0,0,0,Test
+109,76,v England,Lord's,19-07-2007,4,7,Not Out,Test # 1840,159,10,0,47.79,Test
+110,DNB,v England,Nottingham,27-07-2007,4,DNB,DNB,Test # 1841,0,0,0,0,Test
+111,5,v England,Nottingham,27-07-2007,2,7,Caught,Test # 1841,6,1,0,83.33,Test
+112,36,v England,The Oval,09-08-2007,3,7,Caught,Test # 1842,64,4,0,56.25,Test
+113,92,v England,The Oval,09-08-2007,1,7,Caught,Test # 1842,81,9,4,113.58,Test
+114,DNB,v Scotland,Glasgow,16-08-2007,2,DNB,DNB,ODI # 2608,0,0,0,0,ODI
+115,19,v England,Southampton,21-08-2007,2,6,Caught,ODI # 2611,60,1,0,31.66,ODI
+116,21,v England,Bristol,24-08-2007,1,5,Caught,ODI # 2613,18,3,0,116.66,ODI
+117,13,v England,Birmingham,27-08-2007,2,6,Caught,ODI # 2616,20,0,0,65,ODI
+118,13,v England,Manchester,30-08-2007,1,6,Bowled,ODI # 2617,18,1,0,72.22,ODI
+119,24,v England,Leeds,02-09-2007,1,5,Caught,ODI # 2618,17,3,0,141.17,ODI
+120,35,v England,The Oval,05-09-2007,2,6,Bowled,ODI # 2619,37,3,0,94.59,ODI
+121,50,v England,Lord's,08-09-2007,1,7,Caught,ODI # 2620,72,4,1,69.44,ODI
+122,DNB,v Scotland,Durban,13-09-2007,DNB,DNB,DNB,T20I # 26,0,0,0,0,T20
+123,33,v Pakistan,Durban,14-09-2007,1,6,Caught,T20I # 29,31,3,1,106.45,T20
+124,24,v New Zealand,Johannesburg,16-09-2007,2,4,Run Out,T20I # 32,20,2,0,120,T20
+125,10,v England,Durban,19-09-2007,1,4,Not Out,T20I # 40,8,0,0,125,T20
+126,45,v South Africa,Durban,20-09-2007,1,6,Run Out,T20I # 43,33,4,1,136.36,T20
+127,36,v Australia,Durban,22-09-2007,1,5,Run Out,T20I # 45,18,4,1,200,T20
+128,6,v Pakistan,Johannesburg,24-09-2007,1,5,Bowled,T20I # 46,10,0,0,60,T20
+129,DNB,v Australia,Bengaluru,29-09-2007,2,DNB,DNB,ODI # 2621,0,0,0,0,ODI
+130,58,v Australia,Kochi,02-10-2007,2,6,Caught,ODI # 2623,88,2,2,65.9,ODI
+131,33,v Australia,Hyderabad,05-10-2007,2,6,Caught,ODI # 2625,37,4,0,89.18,ODI
+132,50,v Australia,Chandigarh,08-10-2007,1,4,Not Out,ODI # 2627,35,5,1,142.85,ODI
+133,4,v Australia,Vadodara,11-10-2007,1,6,Caught,ODI # 2629,7,1,0,57.14,ODI
+134,26,v Australia,Nagpur,14-10-2007,2,6,Caught,ODI # 2631,29,2,1,89.65,ODI
+135,5,v Australia,Wankhede,17-10-2007,2,6,Caught,ODI # 2632,11,1,0,45.45,ODI
+136,9,v Australia,Brabourne,20-10-2007,2,5,Not Out,T20I # 47,5,0,1,180,T20
+137,63,v Pakistan,Guwahati,05-11-2007,2,4,Caught,ODI # 2643,77,8,0,81.81,ODI
+138,4,v Pakistan,Mohali,08-11-2007,1,6,Caught,ODI # 2644,10,0,0,40,ODI
+139,49,v Pakistan,Kanpur,11-11-2007,1,5,Bowled,ODI # 2645,52,4,2,94.23,ODI
+140,45,v Pakistan,Gwalior,15-11-2007,2,6,Not Out,ODI # 2646,45,3,1,100,ODI
+141,24,v Pakistan,Jaipur,18-11-2007,2,7,Caught,ODI # 2647,32,1,0,75,ODI
+142,DNB,v Pakistan,Delhi,22-11-2007,4,DNB,DNB,Test # 1849,0,0,0,0,Test
+143,57,v Pakistan,Delhi,22-11-2007,2,7,Caught,Test # 1849,93,8,0,61.29,Test
+144,50,v Pakistan,Eden Gardens,30-11-2007,1,7,Not Out,Test # 1850,82,6,1,60.97,Test
+145,37,v Pakistan,Eden Gardens,30-11-2007,3,3,Bowled,Test # 1850,61,2,0,60.65,Test
+146,0,v Australia,Melbourne,26-12-2007,2,7,Lbw,Test # 1855,2,0,0,0,Test
+147,11,v Australia,Melbourne,26-12-2007,4,7,Caught,Test # 1855,32,2,0,34.37,Test
+148,35,v Australia,Sydney,02-01-2008,4,7,Lbw,Test # 1857,82,6,0,42.68,Test
+149,2,v Australia,Sydney,02-01-2008,2,7,Caught,Test # 1857,13,0,0,15.38,Test
+150,38,v Australia,Perth,16-01-2008,3,8,Caught,Test # 1862,87,2,2,43.67,Test
+151,19,v Australia,Perth,16-01-2008,1,7,Lbw,Test # 1862,52,2,0,36.53,Test
+152,16,v Australia,Adelaide,24-01-2008,1,7,Caught,Test # 1863,64,1,0,25,Test
+153,20,v Australia,Adelaide,24-01-2008,3,7,Caught,Test # 1863,44,3,0,45.45,Test
+154,9,v Australia,Melbourne,01-02-2008,1,6,Caught,T20I # 52,27,0,0,33.33,T20
+155,37,v Australia,Brisbane,03-02-2008,1,6,Caught,ODI # 2670,61,1,0,60.65,ODI
+156,88,v Sri Lanka,Brisbane,05-02-2008,1,6,Not Out,ODI # 2672,95,5,1,92.63,ODI
+157,17,v Australia,Melbourne,10-02-2008,2,7,Not Out,ODI # 2675,54,0,0,31.48,ODI
+158,31,v Sri Lanka,Canberra,12-02-2008,1,5,Run Out,ODI # 2676,26,3,0,119.23,ODI
+159,37,v Australia,Adelaide,17-02-2008,2,6,Run Out,ODI # 2680,50,1,0,74,ODI
+160,50,v Sri Lanka,Adelaide,19-02-2008,2,6,Not Out,ODI # 2681,68,0,0,73.52,ODI
+161,36,v Australia,Sydney,24-02-2008,2,6,Caught,ODI # 2685,66,4,0,54.54,ODI
+162,DNB,v Sri Lanka,Hobart,26-02-2008,2,DNB,DNB,ODI # 2686,0,0,0,0,ODI
+163,15,v Australia,Sydney,02-03-2008,2,6,Not Out,ODI # 2688,12,3,0,125,ODI
+164,36,v Australia,Brisbane,04-03-2008,1,5,Caught,ODI # 2689,37,2,1,97.29,ODI
+165,16,v South Africa,Chennai,26-03-2008,2,7,Caught,Test # 1870,33,2,0,48.48,Test
+166,14,v South Africa,Ahmedabad,03-04-2008,1,6,Caught,Test # 1871,22,3,0,63.63,Test
+167,52,v South Africa,Ahmedabad,03-04-2008,3,6,Caught,Test # 1871,132,5,0,39.39,Test
+168,DNB,v South Africa,Kanpur,11-04-2008,4,DNB,DNB,Test # 1873,0,0,0,0,Test
+169,32,v South Africa,Kanpur,11-04-2008,2,7,Stumped,Test # 1873,54,5,0,59.25,Test
+170,24,v Pakistan,Mirpur,10-06-2008,1,6,Lbw,ODI # 2705,23,5,0,104.34,ODI
+171,DNB,v Bangladesh,Mirpur,12-06-2008,2,DNB,DNB,ODI # 2706,0,0,0,0,ODI
+172,64,v Pakistan,Mirpur,14-06-2008,2,7,Caught,ODI # 2707,59,3,2,108.47,ODI
+173,109,v Hong Kong,Karachi,25-06-2008,1,4,Not Out,ODI # 2716,96,6,6,113.54,ODI
+174,26,v Pakistan,Karachi,26-06-2008,2,5,Not Out,ODI # 2717,30,0,1,86.66,ODI
+175,DNB,v Bangladesh,Karachi,28-06-2008,2,DNB,DNB,ODI # 2721,0,0,0,0,ODI
+176,76,v Pakistan,Karachi,02-07-2008,1,5,Caught,ODI # 2730,96,4,0,79.16,ODI
+177,67,v Sri Lanka,Karachi,03-07-2008,2,4,Bowled,ODI # 2732,62,5,1,108.06,ODI
+178,49,v Sri Lanka,Karachi,06-07-2008,2,5,Caught,ODI # 2735,74,4,0,66.21,ODI
+179,6,v Sri Lanka,Dambulla,18-08-2008,1,6,Caught,ODI # 2742,28,0,0,21.42,ODI
+180,39,v Sri Lanka,Dambulla,20-08-2008,2,5,Bowled,ODI # 2745,54,3,0,72.22,ODI
+181,76,v Sri Lanka,Colombo (RPS),24-08-2008,1,6,Caught,ODI # 2750,80,8,0,95,ODI
+182,71,v Sri Lanka,Colombo (RPS),27-08-2008,1,5,Caught,ODI # 2755,80,4,0,88.75,ODI
+183,1,v Sri Lanka,Colombo (RPS),29-08-2008,2,6,Bowled,ODI # 2756,7,0,0,14.28,ODI
+184,9,v Australia,Bengaluru,09-10-2008,2,7,Bowled,Test # 1887,51,0,0,17.64,Test
+185,DNB,v Australia,Bengaluru,09-10-2008,4,DNB,DNB,Test # 1887,0,0,0,0,Test
+186,92,v Australia,Mohali,17-10-2008,1,8,Lbw,Test # 1889,124,8,4,74.19,Test
+187,68,v Australia,Mohali,17-10-2008,3,3,Not Out,Test # 1889,84,3,1,80.95,Test
+188,DNB,v Australia,Delhi,29-10-2008,3,DNB,DNB,Test # 1891,0,0,0,0,Test
+189,27,v Australia,Delhi,29-10-2008,1,7,Caught,Test # 1891,29,4,1,93.1,Test
+190,55,v Australia,Nagpur,06-11-2008,3,7,Caught,Test # 1892,81,4,0,67.9,Test
+191,56,v Australia,Nagpur,06-11-2008,1,7,Bowled,Test # 1892,97,4,0,57.73,Test
+192,39,v England,Rajkot,14-11-2008,1,6,Bowled,ODI # 2774,32,3,1,121.87,ODI
+193,15,v England,Indore,17-11-2008,1,6,Bowled,ODI # 2777,26,1,0,57.69,ODI
+194,29,v England,Kanpur,20-11-2008,2,6,Not Out,ODI # 2778,51,4,0,56.86,ODI
+195,9,v England,Bengaluru,23-11-2008,1,5,Bowled,ODI # 2781,5,0,1,180,ODI
+196,50,v England,Cuttack,26-11-2008,2,4,Lbw,ODI # 2783,61,5,0,81.96,ODI
+197,DNB,v England,Chennai,11-12-2008,4,DNB,DNB,Test # 1898,0,0,0,0,Test
+198,53,v England,Chennai,11-12-2008,2,7,Caught,Test # 1898,82,5,0,64.63,Test
+199,29,v England,Mohali,19-12-2008,1,7,Caught,Test # 1901,73,3,0,39.72,Test
+200,0,v England,Mohali,19-12-2008,3,7,Caught,Test # 1901,2,0,0,0,Test
+201,61,v Sri Lanka,Dambulla,28-01-2009,2,5,Not Out,ODI # 2806,65,5,0,93.84,ODI
+202,23,v Sri Lanka,Colombo (RPS),31-01-2009,1,6,Caught,ODI # 2810,35,0,0,65.71,ODI
+203,35,v Sri Lanka,Colombo (RPS),03-02-2009,1,5,Not Out,ODI # 2813,45,1,0,77.77,ODI
+204,94,v Sri Lanka,Colombo (RPS),05-02-2009,1,3,Caught,ODI # 2815,96,4,2,97.91,ODI
+205,53,v Sri Lanka,Colombo (RPS),08-02-2009,2,6,Caught,ODI # 2818,58,1,2,91.37,ODI
+206,13,v Sri Lanka,Colombo (RPS),10-02-2009,2,5,Bowled,T20I # 82,17,1,0,76.47,T20
+207,2,v New Zealand,Christchurch,25-02-2009,1,6,Bowled,T20I # 84,6,0,0,33.33,T20
+208,28,v New Zealand,Wellington,27-02-2009,1,5,Not Out,T20I # 85,30,2,0,93.33,T20
+209,84,v New Zealand,Napier,03-03-2009,1,3,Not Out,ODI # 2821,89,6,0,94.38,ODI
+210,23,v New Zealand,Wellington,06-03-2009,1,5,Not Out,ODI # 2822,19,2,0,121.05,ODI
+211,68,v New Zealand,Christchurch,08-03-2009,1,5,Caught,ODI # 2823,58,5,2,117.24,ODI
+212,DNB,v New Zealand,Hamilton,11-03-2009,2,DNB,DNB,ODI # 2824,0,0,0,0,ODI
+213,9,v New Zealand,Auckland,14-03-2009,1,6,Bowled,ODI # 2825,21,1,0,42.85,ODI
+214,DNB,v New Zealand,Hamilton,18-03-2009,4,DNB,DNB,Test # 1915,0,0,0,0,Test
+215,47,v New Zealand,Hamilton,18-03-2009,2,7,Caught,Test # 1915,123,7,0,38.21,Test
+216,52,v New Zealand,Wellington,03-04-2009,1,7,Caught,Test # 1918,89,6,1,58.42,Test
+217,56,v New Zealand,Wellington,03-04-2009,3,7,Not Out,Test # 1918,83,8,0,67.46,Test
+218,26,v Bangladesh,Nottingham,06-06-2009,1,3,Bowled,T20I # 93,21,0,1,123.8,T20
+219,14,v Ireland,Nottingham,10-06-2009,2,3,Caught,T20I # 101,13,1,0,107.69,T20
+220,11,v West Indies,Lord's,12-06-2009,1,5,Caught,T20I # 105,23,0,0,47.82,T20
+221,30,v England,Lord's,14-06-2009,2,6,Not Out,T20I # 109,20,3,0,150,T20
+222,5,v South Africa,Nottingham,16-06-2009,2,5,Run Out,T20I # 113,12,0,0,41.66,T20
+223,41,v West Indies,Kingston,26-06-2009,1,5,Run Out,ODI # 2852,46,2,1,89.13,ODI
+224,95,v West Indies,Kingston,28-06-2009,1,5,Bowled,ODI # 2853,130,6,2,73.07,ODI
+225,46,v West Indies,Gros Islet,03-07-2009,2,3,Not Out,ODI # 2854,34,2,1,135.29,ODI
+226,DNB,v West Indies,Gros Islet,05-07-2009,DNB,DNB,DNB,ODI # 2855,0,0,0,0,ODI
+227,35,v New Zealand,Colombo (RPS),11-09-2009,2,5,Not Out,ODI # 2886,65,4,0,53.84,ODI
+228,8,v Sri Lanka,Colombo (RPS),12-09-2009,2,6,Bowled,ODI # 2887,18,0,0,44.44,ODI
+229,56,v Sri Lanka,Colombo (RPS),14-09-2009,1,3,Caught,ODI # 2889,62,3,0,90.32,ODI
+230,3,v Pakistan,Centurion,26-09-2009,2,5,Lbw,ODI # 2898,9,0,0,33.33,ODI
+231,DNB,v Australia,Centurion,28-09-2009,DNB,DNB,DNB,ODI # 2901,0,0,0,0,ODI
+232,DNB,v West Indies,Johannesburg,30-09-2009,2,DNB,DNB,ODI # 2904,0,0,0,0,ODI
+233,34,v Australia,Vadodara,25-10-2009,2,5,Caught,ODI # 2913,46,4,0,73.91,ODI
+234,124,v Australia,Nagpur,28-10-2009,1,5,Caught,ODI # 2915,107,9,3,115.88,ODI
+235,71,v Australia,Delhi,31-10-2009,2,5,Not Out,ODI # 2918,95,6,0,74.73,ODI
+236,26,v Australia,Mohali,02-11-2009,2,5,Caught,ODI # 2919,46,2,0,56.52,ODI
+237,6,v Australia,Hyderabad,05-11-2009,2,5,Caught,ODI # 2923,15,0,0,40,ODI
+238,24,v Australia,Guwahati,08-11-2009,1,5,Lbw,ODI # 2925,77,1,0,31.16,ODI
+239,110,v Sri Lanka,Ahmedabad,16-11-2009,1,7,Caught,Test # 1933,159,10,1,69.18,Test
+240,DNB,v Sri Lanka,Ahmedabad,16-11-2009,3,DNB,DNB,Test # 1933,0,0,0,0,Test
+241,4,v Sri Lanka,Kanpur,24-11-2009,1,7,Bowled,Test # 1935,15,0,0,26.66,Test
+242,100,v Sri Lanka,Brabourne,02-12-2009,2,7,Not Out,Test # 1937,154,3,6,64.93,Test
+243,9,v Sri Lanka,Nagpur,09-12-2009,2,3,Caught,T20I # 126,12,0,0,75,T20
+244,46,v Sri Lanka,Mohali,12-12-2009,2,3,Bowled,T20I # 127,28,3,2,164.28,T20
+245,72,v Sri Lanka,Rajkot,15-12-2009,1,3,Caught,ODI # 2932,53,7,3,135.84,ODI
+246,107,v Sri Lanka,Nagpur,18-12-2009,1,5,Caught,ODI # 2933,111,8,2,96.39,ODI
+247,DNB,v Sri Lanka,Delhi,27-12-2009,DNB,DNB,DNB,ODI # 2936,0,0,0,0,ODI
+248,37,v Sri Lanka,Mirpur,05-01-2010,1,5,Caught,ODI # 2938,70,3,0,52.85,ODI
+249,101,v Bangladesh,Mirpur,07-01-2010,2,5,Not Out,ODI # 2939,107,9,0,94.39,ODI
+250,DNB,v Sri Lanka,Mirpur,10-01-2010,2,DNB,DNB,ODI # 2941,0,0,0,0,ODI
+251,32,v Bangladesh,Mirpur,11-01-2010,2,5,Caught,ODI # 2942,35,3,0,91.42,ODI
+252,14,v Sri Lanka,Mirpur,13-01-2010,1,5,Caught,ODI # 2943,19,3,0,73.68,ODI
+253,89,v Bangladesh,Mirpur,24-01-2010,2,6,Stumped,Test # 1950,167,9,2,53.29,Test
+254,DNB,v Bangladesh,Mirpur,24-01-2010,4,DNB,DNB,Test # 1950,0,0,0,0,Test
+255,25,v South Africa,Nagpur,06-02-2010,3,6,Caught,Test # 1951,112,3,0,22.32,Test
+256,6,v South Africa,Nagpur,06-02-2010,2,6,Caught,Test # 1951,29,1,0,20.68,Test
+257,132,v South Africa,Eden Gardens,14-02-2010,2,8,Not Out,Test # 1952,187,12,3,70.58,Test
+258,26,v South Africa,Jaipur,21-02-2010,1,4,Caught,ODI # 2961,29,2,0,89.65,ODI
+259,68,v South Africa,Gwalior,24-02-2010,1,5,Not Out,ODI # 2962,35,7,4,194.28,ODI
+260,9,v South Africa,Ahmedabad,27-02-2010,2,5,Caught,ODI # 2963,7,0,1,128.57,ODI
+261,15,v Afghanistan,Gros Islet,01-05-2010,2,5,Not Out,T20I # 153,6,0,2,250,T20
+262,16,v South Africa,Gros Islet,02-05-2010,1,6,Not Out,T20I # 155,6,1,1,266.66,T20
+263,2,v Australia,Bridgetown,07-05-2010,2,6,Caught,T20I # 165,8,0,0,25,T20
+264,29,v West Indies,Bridgetown,09-05-2010,2,6,Run Out,T20I # 169,18,2,2,161.11,T20
+265,23,v Sri Lanka,Gros Islet,11-05-2010,1,4,Not Out,T20I # 173,19,0,1,121.05,T20
+266,38,v Bangladesh,Dambulla,16-06-2010,2,5,Not Out,ODI # 2993,45,3,1,84.44,ODI
+267,56,v Pakistan,Dambulla,19-06-2010,2,4,Bowled,ODI # 2996,71,2,1,78.87,ODI
+268,41,v Sri Lanka,Dambulla,22-06-2010,1,6,Run Out,ODI # 2999,53,6,0,77.35,ODI
+269,38,v Sri Lanka,Dambulla,24-06-2010,1,4,Caught,ODI # 3001,50,2,1,76,ODI
+270,4,v Sri Lanka,Galle,18-07-2010,3,7,Bowled,Test # 1964,5,1,0,80,Test
+271,33,v Sri Lanka,Galle,18-07-2010,2,7,Bowled,Test # 1964,47,4,0,70.21,Test
+272,76,v Sri Lanka,Colombo (SSC),26-07-2010,2,7,Caught,Test # 1966,138,7,0,55.07,Test
+273,15,v Sri Lanka,Colombo (PSS),03-08-2010,2,7,Caught,Test # 1968,30,1,0,50,Test
+274,DNB,v Sri Lanka,Colombo (PSS),03-08-2010,4,DNB,DNB,Test # 1968,0,0,0,0,Test
+275,2,v New Zealand,Dambulla,10-08-2010,2,6,Run Out,ODI # 3030,9,0,0,22.22,ODI
+276,23,v Sri Lanka,Dambulla,16-08-2010,2,6,Not Out,ODI # 3032,38,2,0,60.52,ODI
+277,10,v Sri Lanka,Dambulla,22-08-2010,1,6,Caught,ODI # 3038,16,2,0,62.5,ODI
+278,38,v New Zealand,Dambulla,25-08-2010,1,6,Caught,ODI # 3039,75,3,0,50.66,ODI
+279,67,v Sri Lanka,Dambulla,28-08-2010,2,5,Bowled,ODI # 3040,100,5,1,67,ODI
+280,14,v Australia,Mohali,01-10-2010,2,7,Caught,Test # 1972,28,1,1,50,Test
+281,2,v Australia,Mohali,01-10-2010,4,8,Run Out,Test # 1972,14,0,0,14.28,Test
+282,30,v Australia,Bengaluru,09-10-2010,2,7,Caught,Test # 1973,87,3,0,34.48,Test
+283,DNB,v Australia,Bengaluru,09-10-2010,4,DNB,DNB,Test # 1973,0,0,0,0,Test
+284,0,v Australia,Visakhapatnam,20-10-2010,2,6,Bowled,ODI # 3060,1,0,0,0,ODI
+285,22,v New Zealand,Ahmedabad,04-11-2010,3,7,Bowled,Test # 1974,72,1,0,30.55,Test
+286,10,v New Zealand,Ahmedabad,04-11-2010,1,7,Caught,Test # 1974,9,0,1,111.11,Test
+287,14,v New Zealand,Hyderabad,12-11-2010,2,7,Caught,Test # 1975,21,1,0,66.66,Test
+288,DNB,v New Zealand,Hyderabad,12-11-2010,4,DNB,DNB,Test # 1975,0,0,0,0,Test
+289,98,v New Zealand,Nagpur,20-11-2010,2,7,Caught,Test # 1978,156,12,1,62.82,Test
+290,33,v South Africa,Centurion,16-12-2010,1,7,Lbw,Test # 1985,50,2,2,66,Test
+291,90,v South Africa,Centurion,16-12-2010,3,8,Caught,Test # 1985,106,14,0,84.9,Test
+292,35,v South Africa,Durban,26-12-2010,1,7,Caught,Test # 1987,57,3,1,61.4,Test
+293,21,v South Africa,Durban,26-12-2010,3,7,Caught,Test # 1987,35,4,0,60,Test
+294,0,v South Africa,Cape Town,02-01-2011,2,7,Caught,Test # 1988,3,0,0,0,Test
+295,DNB,v South Africa,Cape Town,02-01-2011,4,DNB,DNB,Test # 1988,0,0,0,0,Test
+296,10,v South Africa,Durban,09-01-2011,1,7,Not Out,T20I # 196,11,0,0,90.9,T20
+297,25,v South Africa,Durban,12-01-2011,2,6,Run Out,ODI # 3079,35,1,0,71.42,ODI
+298,38,v South Africa,Johannesburg,15-01-2011,1,5,Bowled,ODI # 3080,61,1,0,62.29,ODI
+299,5,v South Africa,Cape Town,18-01-2011,2,5,Caught,ODI # 3082,12,1,0,41.66,ODI
+300,2,v South Africa,Gqeberha,21-01-2011,2,6,Caught,ODI # 3084,8,0,0,25,ODI
+301,5,v South Africa,Centurion,23-01-2011,2,4,Caught,ODI # 3087,10,1,0,50,ODI
+302,DNB,v Bangladesh,Mirpur,19-02-2011,1,DNB,DNB,ODI # 3100,0,0,0,0,ODI
+303,31,v England,Bengaluru,27-02-2011,1,5,Caught,ODI # 3110,25,3,1,124,ODI
+304,34,v Ireland,Bengaluru,06-03-2011,2,6,Lbw,ODI # 3121,50,2,0,68,ODI
+305,19,v Netherlands,Delhi,09-03-2011,2,7,Not Out,ODI # 3124,40,2,0,47.5,ODI
+306,12,v South Africa,Nagpur,12-03-2011,1,6,Not Out,ODI # 3128,21,0,0,57.14,ODI
+307,22,v West Indies,Chennai,20-03-2011,1,5,Stumped,ODI # 3141,30,1,0,73.33,ODI
+308,7,v Australia,Ahmedabad,24-03-2011,2,6,Caught,ODI # 3143,8,1,0,87.5,ODI
+309,25,v Pakistan,Mohali,30-03-2011,1,6,Lbw,ODI # 3147,42,2,0,59.52,ODI
+310,91,v Sri Lanka,Wankhede,02-04-2011,2,5,Not Out,ODI # 3148,79,8,2,115.18,ODI
+311,0,v West Indies,Kingston,20-06-2011,1,7,Caught,Test # 1997,2,0,0,0,Test
+312,16,v West Indies,Kingston,20-06-2011,3,7,Caught,Test # 1997,16,1,1,100,Test
+313,5,v West Indies,Bridgetown,28-06-2011,3,7,Caught,Test # 1998,14,0,0,35.71,Test
+314,2,v West Indies,Bridgetown,28-06-2011,1,7,Caught,Test # 1998,13,0,0,15.38,Test
+315,74,v West Indies,Roseau,06-07-2011,2,7,Caught,Test # 1999,133,4,0,55.63,Test
+316,DNB,v West Indies,Roseau,06-07-2011,4,DNB,DNB,Test # 1999,0,0,0,0,Test
+317,16,v England,Lord's,21-07-2011,4,7,Caught,Test # 2000,49,2,0,32.65,Test
+318,28,v England,Lord's,21-07-2011,2,7,Caught,Test # 2000,103,2,0,27.18,Test
+319,5,v England,Nottingham,29-07-2011,2,7,Caught,Test # 2001,9,1,0,55.55,Test
+320,0,v England,Nottingham,29-07-2011,4,7,Lbw,Test # 2001,1,0,0,0,Test
+321,77,v England,Birmingham,10-08-2011,1,7,Caught,Test # 2003,96,10,3,80.2,Test
+322,74,v England,Birmingham,10-08-2011,3,7,Not Out,Test # 2003,79,13,0,93.67,Test
+323,17,v England,The Oval,18-08-2011,2,7,Caught,Test # 2004,50,2,0,34,Test
+324,3,v England,The Oval,18-08-2011,3,7,Caught,Test # 2004,19,0,0,15.78,Test
+325,8,v England,Manchester,31-08-2011,1,7,Caught,T20I # 204,8,1,0,100,T20
+326,33,v England,Chester-le-Street,03-09-2011,1,7,Caught,ODI # 3186,36,2,0,91.66,ODI
+327,6,v England,Southampton,06-09-2011,1,6,Caught,ODI # 3187,5,1,0,120,ODI
+328,69,v England,The Oval,09-09-2011,1,6,Caught,ODI # 3189,103,5,0,66.99,ODI
+329,78,v England,Lord's,11-09-2011,1,6,Not Out,ODI # 3191,71,6,3,109.85,ODI
+330,50,v England,Cardiff,16-09-2011,1,6,Not Out,ODI # 3195,26,5,2,192.3,ODI
+331,87,v England,Hyderabad,14-10-2011,1,6,Not Out,ODI # 3199,70,10,1,124.28,ODI
+332,DNB,v England,Delhi,17-10-2011,2,DNB,DNB,ODI # 3201,0,0,0,0,ODI
+333,35,v England,Mohali,20-10-2011,2,6,Not Out,ODI # 3205,31,3,0,112.9,ODI
+334,15,v England,Wankhede,23-10-2011,2,6,Not Out,ODI # 3207,18,1,1,83.33,ODI
+335,75,v England,Eden Gardens,25-10-2011,1,6,Not Out,ODI # 3210,69,3,4,108.69,ODI
+336,21,v England,Eden Gardens,29-10-2011,1,6,Run Out,T20I # 214,26,0,1,80.76,T20
+337,0,v West Indies,Delhi,06-11-2011,2,7,Bowled,Test # 2015,4,0,0,0,Test
+338,0,v West Indies,Delhi,06-11-2011,4,7,Not Out,Test # 2015,4,0,0,0,Test
+339,144,v West Indies,Eden Gardens,14-11-2011,1,8,Caught,Test # 2017,175,10,5,82.28,Test
+340,8,v West Indies,Wankhede,22-11-2011,2,7,Bowled,Test # 2019,21,1,0,38.09,Test
+341,13,v West Indies,Wankhede,22-11-2011,4,7,Caught,Test # 2019,37,1,0,35.13,Test
+342,23,v Australia,Melbourne,26-12-2011,4,7,Bowled,Test # 2025,44,0,1,52.27,Test
+343,6,v Australia,Melbourne,26-12-2011,2,8,Caught,Test # 2025,8,0,0,75,Test
+344,57,v Australia,Sydney,03-01-2012,1,7,Not Out,Test # 2027,77,8,0,74.02,Test
+345,2,v Australia,Sydney,03-01-2012,3,7,Caught,Test # 2027,11,0,0,18.18,Test
+346,2,v Australia,Perth,13-01-2012,3,7,Caught,Test # 2029,16,0,0,12.5,Test
+347,12,v Australia,Perth,13-01-2012,1,7,Caught,Test # 2029,22,2,0,54.54,Test
+348,48,v Australia,Sydney,01-02-2012,2,6,Not Out,T20I # 217,43,1,3,111.62,T20
+349,21,v Australia,Melbourne,03-02-2012,2,4,Not Out,T20I # 218,18,2,0,116.66,T20
+350,29,v Australia,Melbourne,05-02-2012,2,6,Caught,ODI # 3231,38,1,0,76.31,ODI
+351,4,v Sri Lanka,Perth,08-02-2012,2,6,Caught,ODI # 3233,5,1,0,80,ODI
+352,44,v Australia,Adelaide,12-02-2012,2,6,Not Out,ODI # 3237,58,0,1,75.86,ODI
+353,58,v Sri Lanka,Adelaide,14-02-2012,2,6,Not Out,ODI # 3239,69,3,1,84.05,ODI
+354,56,v Australia,Brisbane,19-02-2012,2,6,Caught,ODI # 3244,84,2,1,66.66,ODI
+355,14,v Australia,Sydney,26-02-2012,2,6,Lbw,ODI # 3250,49,0,0,28.57,ODI
+356,DNB,v Sri Lanka,Hobart,28-02-2012,2,DNB,DNB,ODI # 3251,0,0,0,0,ODI
+357,46,v Sri Lanka,Mirpur,13-03-2012,1,4,Not Out,ODI # 3259,26,6,1,176.92,ODI
+358,21,v Bangladesh,Mirpur,16-03-2012,1,5,Not Out,ODI # 3261,11,2,0,190.9,ODI
+359,4,v Pakistan,Mirpur,18-03-2012,2,6,Not Out,ODI # 3263,1,1,0,400,ODI
+360,DNB,v South Africa,Johannesburg,30-03-2012,2,DNB,DNB,T20I # 242,0,0,0,0,T20
+361,35,v Sri Lanka,Hambantota,21-07-2012,1,6,Caught,ODI # 3291,29,3,1,120.68,ODI
+362,11,v Sri Lanka,Hambantota,24-07-2012,1,6,Caught,ODI # 3292,16,2,0,68.75,ODI
+363,31,v Sri Lanka,Colombo (RPS),28-07-2012,2,4,Bowled,ODI # 3293,49,1,0,63.26,ODI
+364,DNB,v Sri Lanka,Colombo (RPS),31-07-2012,2,DNB,DNB,ODI # 3294,0,0,0,0,ODI
+365,58,v Sri Lanka,Pallekele,04-08-2012,1,7,Caught,ODI # 3295,38,8,1,152.63,ODI
+366,16,v Sri Lanka,Pallekele,07-08-2012,1,5,Not Out,T20I # 255,14,2,0,114.28,T20
+367,73,v New Zealand,Hyderabad,23-08-2012,1,7,Caught,Test # 2054,147,6,1,49.65,Test
+368,62,v New Zealand,Bengaluru,31-08-2012,2,7,Lbw,Test # 2055,94,8,2,65.95,Test
+369,48,v New Zealand,Bengaluru,31-08-2012,4,7,Not Out,Test # 2055,60,3,2,80,Test
+370,22,v New Zealand,Chennai,11-09-2012,2,5,Not Out,T20I # 261,23,2,0,95.65,T20
+371,18,v Afghanistan,Colombo (RPS),19-09-2012,1,6,Not Out,T20I # 265,9,2,1,200,T20
+372,9,v England,Colombo (RPS),23-09-2012,1,5,Caught,T20I # 272,8,1,0,112.5,T20
+373,15,v Australia,Colombo (RPS),28-09-2012,1,7,Caught,T20I # 278,21,2,0,71.42,T20
+374,DNB,v Pakistan,Colombo (RPS),30-09-2012,2,DNB,DNB,T20I # 282,0,0,0,0,T20
+375,23,v South Africa,Colombo (RPS),02-10-2012,1,7,Not Out,T20I # 286,13,3,0,176.92,T20
+376,5,v England,Ahmedabad,15-11-2012,1,7,Bowled,Test # 2058,37,0,0,13.51,Test
+377,DNB,v England,Ahmedabad,15-11-2012,4,DNB,DNB,Test # 2058,0,0,0,0,Test
+378,29,v England,Wankhede,23-11-2012,1,7,Caught,Test # 2062,64,4,0,45.31,Test
+379,6,v England,Wankhede,23-11-2012,3,7,Caught,Test # 2062,17,0,0,35.29,Test
+380,52,v England,Eden Gardens,05-12-2012,1,7,Caught,Test # 2065,114,5,2,45.61,Test
+381,0,v England,Eden Gardens,05-12-2012,3,7,Caught,Test # 2065,3,0,0,0,Test
+382,99,v England,Nagpur,13-12-2012,2,6,Run Out,Test # 2066,246,8,1,40.24,Test
+383,24,v England,Pune,20-12-2012,2,6,Not Out,T20I # 292,21,2,0,114.28,T20
+384,38,v England,Wankhede,22-12-2012,1,7,Caught,T20I # 294,18,3,2,211.11,T20
+385,1,v Pakistan,Bengaluru,25-12-2012,1,5,Bowled,T20I # 296,2,0,0,50,T20
+386,33,v Pakistan,Ahmedabad,28-12-2012,1,5,Bowled,T20I # 298,23,4,0,143.47,T20
+387,113,v Pakistan,Chennai,30-12-2012,1,7,Not Out,ODI # 3314,125,7,3,90.4,ODI
+388,54,v Pakistan,Eden Gardens,03-01-2013,2,6,Not Out,ODI # 3315,89,4,1,60.67,ODI
+389,36,v Pakistan,Delhi,06-01-2013,1,6,Caught,ODI # 3316,55,1,3,65.45,ODI
+390,32,v England,Rajkot,11-01-2013,2,6,Caught,ODI # 3318,25,0,4,128,ODI
+391,72,v England,Kochi,15-01-2013,1,6,Caught,ODI # 3320,66,7,2,109.09,ODI
+392,10,v England,Ranchi,19-01-2013,2,5,Not Out,ODI # 3322,12,2,0,83.33,ODI
+393,19,v England,Mohali,23-01-2013,2,6,Caught,ODI # 3327,21,2,0,90.47,ODI
+394,15,v England,Dharamsala,27-01-2013,1,6,Lbw,ODI # 3329,23,2,0,65.21,ODI
+395,DNB,v Australia,Chennai,22-02-2013,4,DNB,DNB,Test # 2074,0,0,0,0,Test
+396,224,v Australia,Chennai,22-02-2013,2,6,Caught,Test # 2074,265,24,6,84.52,Test
+397,44,v Australia,Hyderabad,02-03-2013,2,6,Caught,Test # 2076,43,8,0,102.32,Test
+398,4,v Australia,Mohali,14-03-2013,2,6,Lbw,Test # 2081,3,1,0,133.33,Test
+399,18,v Australia,Mohali,14-03-2013,4,5,Not Out,Test # 2081,28,3,0,64.28,Test
+400,24,v Australia,Delhi,22-03-2013,2,6,Caught,Test # 2085,23,2,0,104.34,Test
+401,12,v Australia,Delhi,22-03-2013,4,6,Not Out,Test # 2085,14,2,0,85.71,Test
+402,27,v South Africa,Cardiff,06-06-2013,1,5,Caught,ODI # 3363,26,3,0,103.84,ODI
+403,DNB,v West Indies,The Oval,11-06-2013,2,DNB,DNB,ODI # 3368,0,0,0,0,ODI
+404,DNB,v Pakistan,Birmingham,15-06-2013,2,DNB,DNB,ODI # 3372,0,0,0,0,ODI
+405,DNB,v Sri Lanka,Cardiff,20-06-2013,2,DNB,DNB,ODI # 3376,0,0,0,0,ODI
+406,0,v England,Birmingham,23-06-2013,1,6,Caught,ODI # 3377,4,0,0,0,ODI
+407,27,v West Indies,Kingston,30-06-2013,1,6,Bowled,ODI # 3380,35,1,0,77.14,ODI
+408,45,v Sri Lanka,Port of Spain,11-07-2013,2,6,Not Out,ODI # 3388,52,5,2,86.53,ODI
+409,24,v Australia,Rajkot,10-10-2013,2,6,Not Out,T20I # 331,21,2,0,114.28,T20
+410,19,v Australia,Pune,13-10-2013,2,6,Bowled,ODI # 3419,22,2,0,86.36,ODI
+411,DNB,v Australia,Jaipur,16-10-2013,2,DNB,DNB,ODI # 3420,0,0,0,0,ODI
+412,139,v Australia,Mohali,19-10-2013,1,6,Not Out,ODI # 3421,121,12,5,114.87,ODI
+413,DNB,v Australia,Ranchi,23-10-2013,2,DNB,DNB,ODI # 3422,0,0,0,0,ODI
+414,25,v Australia,Nagpur,30-10-2013,2,6,Not Out,ODI # 3424,23,2,0,108.69,ODI
+415,62,v Australia,Bengaluru,02-11-2013,1,6,Run Out,ODI # 3428,38,7,2,163.15,ODI
+416,42,v West Indies,Eden Gardens,06-11-2013,2,7,Caught,Test # 2101,63,5,0,66.66,Test
+417,4,v West Indies,Wankhede,14-11-2013,2,7,Caught,Test # 2102,10,0,0,40,Test
+418,13,v West Indies,Kochi,21-11-2013,2,6,Not Out,ODI # 3436,7,3,0,185.71,ODI
+419,51,v West Indies,Visakhapatnam,24-11-2013,1,6,Not Out,ODI # 3437,40,3,4,127.5,ODI
+420,23,v West Indies,Kanpur,27-11-2013,2,6,Not Out,ODI # 3439,23,3,0,100,ODI
+421,65,v South Africa,Johannesburg,05-12-2013,2,6,Bowled,ODI # 3442,71,8,1,91.54,ODI
+422,19,v South Africa,Durban,08-12-2013,2,6,Caught,ODI # 3443,31,0,0,61.29,ODI
+423,DNB,v South Africa,Centurion,11-12-2013,DNB,DNB,DNB,ODI # 3444,0,0,0,0,ODI
+424,29,v South Africa,Johannesburg,18-12-2013,3,7,Caught,Test # 2108,44,3,0,65.9,Test
+425,19,v South Africa,Johannesburg,18-12-2013,1,7,Caught,Test # 2108,72,3,0,26.38,Test
+426,15,v South Africa,Durban,26-12-2013,3,7,Caught,Test # 2111,29,2,0,51.72,Test
+427,24,v South Africa,Durban,26-12-2013,1,7,Caught,Test # 2111,40,3,0,60,Test
+428,40,v New Zealand,Napier,19-01-2014,2,6,Caught,ODI # 3456,46,2,2,86.95,ODI
+429,56,v New Zealand,Hamilton,22-01-2014,2,5,Caught,ODI # 3458,44,7,1,127.27,ODI
+430,50,v New Zealand,Auckland,25-01-2014,2,6,Caught,ODI # 3462,60,2,3,83.33,ODI
+431,79,v New Zealand,Hamilton,28-01-2014,1,5,Not Out,ODI # 3465,73,6,3,108.21,ODI
+432,47,v New Zealand,Wellington,31-01-2014,2,6,Caught,ODI # 3467,72,3,0,65.27,ODI
+433,39,v New Zealand,Auckland,06-02-2014,4,7,Bowled,Test # 2118,41,6,0,95.12,Test
+434,10,v New Zealand,Auckland,06-02-2014,2,7,Caught,Test # 2118,28,1,0,35.71,Test
+435,DNB,v New Zealand,Wellington,14-02-2014,4,DNB,DNB,Test # 2120,0,0,0,0,Test
+436,68,v New Zealand,Wellington,14-02-2014,2,8,Caught,Test # 2120,86,9,1,79.06,Test
+437,DNB,v Pakistan,Mirpur,21-03-2014,2,DNB,DNB,T20I # 378,0,0,0,0,T20
+438,DNB,v West Indies,Mirpur,23-03-2014,2,DNB,DNB,T20I # 382,0,0,0,0,T20
+439,22,v Bangladesh,Mirpur,28-03-2014,2,4,Not Out,T20I # 389,12,1,2,183.33,T20
+440,24,v Australia,Mirpur,30-03-2014,1,6,Bowled,T20I # 393,20,1,1,120,T20
+441,0,v South Africa,Mirpur,04-04-2014,2,6,Not Out,T20I # 399,1,0,0,0,T20
+442,4,v Sri Lanka,Mirpur,06-04-2014,1,5,Not Out,T20I # 400,7,0,0,57.14,T20
+443,11,v England,Nottingham,09-07-2014,3,6,Bowled,Test # 2128,30,2,0,36.66,Test
+444,82,v England,Nottingham,09-07-2014,1,6,Run Out,Test # 2128,152,7,0,53.94,Test
+445,19,v England,Lord's,17-07-2014,3,6,Caught,Test # 2130,86,2,0,22.09,Test
+446,1,v England,Lord's,17-07-2014,1,6,Caught,Test # 2130,17,0,0,5.88,Test
+447,6,v England,Southampton,27-07-2014,4,7,Caught,Test # 2132,11,1,0,54.54,Test
+448,50,v England,Southampton,27-07-2014,2,7,Caught,Test # 2132,113,5,1,44.24,Test
+449,27,v England,Manchester,07-08-2014,3,6,Caught,Test # 2134,22,4,0,122.72,Test
+450,71,v England,Manchester,07-08-2014,1,6,Caught,Test # 2134,133,15,0,53.38,Test
+451,82,v England,The Oval,15-08-2014,1,6,Caught,Test # 2137,140,15,1,58.57,Test
+452,0,v England,The Oval,15-08-2014,3,6,Caught,Test # 2137,5,0,0,0,Test
+453,52,v England,Cardiff,27-08-2014,1,6,Bowled,ODI # 3517,51,6,0,101.96,ODI
+454,DNB,v England,Nottingham,30-08-2014,2,DNB,DNB,ODI # 3520,0,0,0,0,ODI
+455,DNB,v England,Birmingham,02-09-2014,2,DNB,DNB,ODI # 3523,0,0,0,0,ODI
+456,29,v England,Leeds,05-09-2014,2,6,Caught,ODI # 3525,42,1,1,69.04,ODI
+457,27,v England,Birmingham,07-09-2014,2,5,Not Out,T20I # 405,18,2,1,150,T20
+458,8,v West Indies,Kochi,08-10-2014,2,6,Bowled,ODI # 3531,21,0,0,38.09,ODI
+459,51,v West Indies,Delhi,11-10-2014,1,6,Not Out,ODI # 3533,40,5,1,127.5,ODI
+460,6,v West Indies,Dharamsala,17-10-2014,1,5,Run Out,ODI # 3535,5,0,0,120,ODI
+461,33,v Australia,Brisbane,17-12-2014,1,7,Caught,Test # 2149,53,4,0,62.26,Test
+462,0,v Australia,Brisbane,17-12-2014,3,7,Lbw,Test # 2149,2,0,0,0,Test
+463,11,v Australia,Melbourne,26-12-2014,2,7,Caught,Test # 2152,23,1,0,47.82,Test
+464,24,v Australia,Melbourne,26-12-2014,4,7,Not Out,Test # 2152,39,4,0,61.53,Test
+465,19,v Australia,Melbourne,18-01-2015,1,6,Bowled,ODI # 3582,31,2,0,61.29,ODI
+466,34,v England,Brisbane,20-01-2015,1,6,Caught,ODI # 3586,61,1,0,55.73,ODI
+467,DNB,v Australia,Sydney,26-01-2015,1,DNB,DNB,ODI # 3592,0,0,0,0,ODI
+468,17,v England,Perth,30-01-2015,1,6,Lbw,ODI # 3595,32,3,0,53.12,ODI
+469,18,v Pakistan,Adelaide,15-02-2015,1,5,Caught,ODI # 3602,13,1,1,138.46,ODI
+470,18,v South Africa,Melbourne,22-02-2015,1,6,Caught,ODI # 3610,11,3,0,163.63,ODI
+471,DNB,v U.A.E.,Perth,28-02-2015,2,DNB,DNB,ODI # 3618,0,0,0,0,ODI
+472,45,v West Indies,Perth,06-03-2015,2,6,Not Out,ODI # 3625,56,3,1,80.35,ODI
+473,DNB,v Ireland,Hamilton,10-03-2015,2,DNB,DNB,ODI # 3631,0,0,0,0,ODI
+474,85,v Zimbabwe,Auckland,14-03-2015,2,6,Not Out,ODI # 3636,76,8,2,111.84,ODI
+475,6,v Bangladesh,Melbourne,19-03-2015,1,6,Caught,ODI # 3641,11,0,0,54.54,ODI
+476,65,v Australia,Sydney,26-03-2015,2,6,Run Out,ODI # 3645,65,3,2,100,ODI
+477,5,v Bangladesh,Mirpur,18-06-2015,2,6,Caught,ODI # 3658,7,0,0,71.42,ODI
+478,47,v Bangladesh,Mirpur,21-06-2015,1,4,Caught,ODI # 3660,75,3,0,62.66,ODI
+479,69,v Bangladesh,Mirpur,24-06-2015,1,4,Caught,ODI # 3661,77,6,1,89.61,ODI
+480,20,v South Africa,Dharamsala,02-10-2015,1,5,Not Out,T20I # 456,12,2,1,166.66,T20
+481,5,v South Africa,Cuttack,05-10-2015,1,6,Caught,T20I # 457,8,0,0,62.5,T20
+482,31,v South Africa,Kanpur,11-10-2015,2,5,Caught,ODI # 3689,30,1,0,103.33,ODI
+483,92,v South Africa,Indore,14-10-2015,1,5,Not Out,ODI # 3692,86,7,4,106.97,ODI
+484,47,v South Africa,Rajkot,18-10-2015,2,4,Caught,ODI # 3695,61,5,0,77.04,ODI
+485,15,v South Africa,Chennai,22-10-2015,1,6,Caught,ODI # 3698,16,1,0,93.75,ODI
+486,27,v South Africa,Wankhede,25-10-2015,2,6,Bowled,ODI # 3700,29,3,0,93.1,ODI
+487,18,v Australia,Perth,12-01-2016,1,4,Caught,ODI # 3723,13,1,1,138.46,ODI
+488,11,v Australia,Brisbane,15-01-2016,1,5,Caught,ODI # 3724,10,0,0,110,ODI
+489,23,v Australia,Melbourne,17-01-2016,1,5,Caught,ODI # 3725,9,2,2,255.55,ODI
+490,0,v Australia,Canberra,20-01-2016,2,4,Caught,ODI # 3726,3,0,0,0,ODI
+491,34,v Australia,Sydney,23-01-2016,2,5,Caught,ODI # 3727,42,1,1,80.95,ODI
+492,11,v Australia,Adelaide,26-01-2016,1,5,Not Out,T20I # 485,3,1,1,366.66,T20
+493,14,v Australia,Melbourne,29-01-2016,1,4,Caught,T20I # 486,9,2,0,155.55,T20
+494,DNB,v Australia,Sydney,31-01-2016,2,DNB,DNB,T20I # 489,0,0,0,0,T20
+495,2,v Sri Lanka,Pune,09-02-2016,1,6,Caught,T20I # 496,2,0,0,100,T20
+496,9,v Sri Lanka,Ranchi,12-02-2016,1,6,Not Out,T20I # 497,5,1,0,180,T20
+497,DNB,v Sri Lanka,Visakhapatnam,14-02-2016,2,DNB,DNB,T20I # 499,0,0,0,0,T20
+498,8,v Bangladesh,Mirpur,24-02-2016,1,7,Not Out,T20I # 509,2,0,1,400,T20
+499,7,v Pakistan,Mirpur,27-02-2016,2,7,Not Out,T20I # 512,3,1,0,233.33,T20
+500,7,v Sri Lanka,Mirpur,01-03-2016,2,7,Not Out,T20I # 515,4,0,1,175,T20
+501,DNB,v U.A.E.,Mirpur,03-03-2016,2,DNB,DNB,T20I # 517,0,0,0,0,T20
+502,20,v Bangladesh,Mirpur,06-03-2016,2,4,Not Out,T20I # 521,6,1,2,333.33,T20
+503,30,v New Zealand,Nagpur,15-03-2016,2,6,Caught,T20I # 535,30,1,1,100,T20
+504,13,v Pakistan,Eden Gardens,19-03-2016,2,6,Not Out,T20I # 541,9,0,1,144.44,T20
+505,13,v Bangladesh,Bengaluru,23-03-2016,1,6,Not Out,T20I # 547,12,1,0,108.33,T20
+506,18,v Australia,Mohali,27-03-2016,2,6,Not Out,T20I # 553,10,3,0,180,T20
+507,15,v West Indies,Wankhede,31-03-2016,1,4,Not Out,T20I # 556,9,1,0,166.66,T20
+508,DNB,v Zimbabwe,Harare,11-06-2016,2,DNB,DNB,ODI # 3742,0,0,0,0,ODI
+509,DNB,v Zimbabwe,Harare,13-06-2016,2,DNB,DNB,ODI # 3744,0,0,0,0,ODI
+510,DNB,v Zimbabwe,Harare,15-06-2016,2,DNB,DNB,ODI # 3746,0,0,0,0,ODI
+511,19,v Zimbabwe,Harare,18-06-2016,2,6,Not Out,T20I # 558,17,1,0,111.76,T20
+512,DNB,v Zimbabwe,Harare,20-06-2016,2,DNB,DNB,T20I # 559,0,0,0,0,T20
+513,9,v Zimbabwe,Harare,22-06-2016,1,6,Bowled,T20I # 560,13,1,0,69.23,T20
+514,43,v West Indies,Lauderhill,27-08-2016,2,5,Caught,T20I # 562,25,2,2,172,T20
+515,DNB,v West Indies,Lauderhill,28-08-2016,2,DNB,DNB,T20I # 563,0,0,0,0,T20
+516,21,v New Zealand,Dharamsala,16-10-2016,2,5,Run Out,ODI # 3796,24,1,1,87.5,ODI
+517,39,v New Zealand,Delhi,20-10-2016,2,5,Caught,ODI # 3797,65,3,0,60,ODI
+518,80,v New Zealand,Mohali,23-10-2016,2,4,Caught,ODI # 3798,91,6,3,87.91,ODI
+519,11,v New Zealand,Ranchi,26-10-2016,2,4,Bowled,ODI # 3799,31,0,0,35.48,ODI
+520,41,v New Zealand,Visakhapatnam,29-10-2016,1,4,Lbw,ODI # 3800,59,4,1,69.49,ODI
+521,6,v England,Pune,15-01-2017,2,5,Caught,ODI # 3819,6,1,0,100,ODI
+522,134,v England,Cuttack,19-01-2017,1,5,Caught,ODI # 3821,122,10,6,109.83,ODI
+523,25,v England,Eden Gardens,22-01-2017,2,5,Caught,ODI # 3824,36,1,1,69.44,ODI
+524,36,v England,Kanpur,26-01-2017,1,5,Not Out,T20I # 592,27,3,0,133.33,T20
+525,5,v England,Nagpur,29-01-2017,1,6,Bowled,T20I # 593,7,0,0,71.42,T20
+526,56,v England,Bengaluru,01-02-2017,1,4,Caught,T20I # 594,36,5,2,155.55,T20
+527,DNB,v Pakistan,Birmingham,04-06-2017,1,DNB,DNB,ODI # 3878,0,0,0,0,ODI
+528,63,v Sri Lanka,The Oval,08-06-2017,1,5,Caught,ODI # 3882,52,7,2,121.15,ODI
+529,DNB,v South Africa,The Oval,11-06-2017,2,DNB,DNB,ODI # 3886,0,0,0,0,ODI
+530,DNB,v Bangladesh,Birmingham,15-06-2017,2,DNB,DNB,ODI # 3891,0,0,0,0,ODI
+531,4,v Pakistan,The Oval,18-06-2017,2,5,Caught,ODI # 3894,16,0,0,25,ODI
+532,9,v West Indies,Port of Spain,23-06-2017,1,5,Not Out,ODI # 3895,9,1,0,100,ODI
+533,13,v West Indies,Port of Spain,25-06-2017,1,6,Not Out,ODI # 3896,13,1,0,100,ODI
+534,78,v West Indies,North Sound,30-06-2017,1,5,Not Out,ODI # 3898,79,4,2,98.73,ODI
+535,54,v West Indies,North Sound,02-07-2017,2,5,Caught,ODI # 3900,114,1,0,47.36,ODI
+536,DNB,v West Indies,Kingston,06-07-2017,2,DNB,DNB,ODI # 3902,0,0,0,0,ODI
+537,2,v West Indies,Kingston,09-07-2017,1,5,Caught,T20I # 617,3,0,0,66.66,T20
+538,DNB,v Sri Lanka,Dambulla,20-08-2017,2,DNB,DNB,ODI # 3905,0,0,0,0,ODI
+539,45,v Sri Lanka,Pallekele,24-08-2017,2,6,Not Out,ODI # 3906,68,1,0,66.17,ODI
+540,67,v Sri Lanka,Pallekele,27-08-2017,2,6,Not Out,ODI # 3907,86,4,1,77.9,ODI
+541,49,v Sri Lanka,Colombo (RPS),31-08-2017,1,7,Not Out,ODI # 3908,42,5,1,116.66,ODI
+542,1,v Sri Lanka,Colombo (RPS),03-09-2017,2,6,Not Out,ODI # 3909,1,0,0,100,ODI
+543,1,v Sri Lanka,Colombo (RPS),06-09-2017,2,5,Not Out,T20I # 618,1,0,0,100,T20
+544,79,v Australia,Chennai,17-09-2017,1,6,Caught,ODI # 3910,88,4,2,89.77,ODI
+545,5,v Australia,Eden Gardens,21-09-2017,1,6,Caught,ODI # 3912,10,1,0,50,ODI
+546,3,v Australia,Indore,24-09-2017,2,7,Not Out,ODI # 3914,6,0,0,50,ODI
+547,13,v Australia,Bengaluru,28-09-2017,2,7,Bowled,ODI # 3917,10,1,1,130,ODI
+548,DNB,v Australia,Nagpur,01-10-2017,2,DNB,DNB,ODI # 3919,0,0,0,0,ODI
+549,DNB,v Australia,Ranchi,07-10-2017,2,DNB,DNB,T20I # 623,0,0,0,0,T20
+550,13,v Australia,Guwahati,10-10-2017,1,6,Stumped,T20I # 624,16,1,0,81.25,T20
+551,25,v New Zealand,Wankhede,22-10-2017,1,6,Caught,ODI # 3928,42,2,0,59.52,ODI
+552,18,v New Zealand,Pune,25-10-2017,2,6,Not Out,ODI # 3931,21,3,0,85.71,ODI
+553,25,v New Zealand,Kanpur,29-10-2017,1,5,Caught,ODI # 3932,17,3,0,147.05,ODI
+554,7,v New Zealand,Delhi,01-11-2017,1,5,Not Out,T20I # 630,2,0,1,350,T20
+555,49,v New Zealand,Rajkot,04-11-2017,2,6,Caught,T20I # 631,37,2,3,132.43,T20
+556,0,v New Zealand,Thiruvananthapuram,07-11-2017,1,7,Not Out,T20I # 632,0,0,0,0,T20
+557,65,v Sri Lanka,Dharamsala,10-12-2017,1,6,Caught,ODI # 3939,87,10,2,74.71,ODI
+558,7,v Sri Lanka,Mohali,13-12-2017,1,4,Lbw,ODI # 3941,5,0,1,140,ODI
+559,DNB,v Sri Lanka,Visakhapatnam,17-12-2017,2,DNB,DNB,ODI # 3942,0,0,0,0,ODI
+560,39,v Sri Lanka,Cuttack,20-12-2017,1,4,Not Out,T20I # 633,22,4,1,177.27,T20
+561,28,v Sri Lanka,Indore,22-12-2017,1,3,Bowled,T20I # 634,21,2,2,133.33,T20
+562,16,v Sri Lanka,Wankhede,24-12-2017,2,7,Not Out,T20I # 635,10,2,0,160,T20
+563,4,v South Africa,Durban,01-02-2018,2,6,Not Out,ODI # 3969,3,1,0,133.33,ODI
+564,DNB,v South Africa,Centurion,04-02-2018,2,DNB,DNB,ODI # 3970,0,0,0,0,ODI
+565,10,v South Africa,Cape Town,07-02-2018,1,6,Caught,ODI # 3971,22,0,0,45.45,ODI
+566,42,v South Africa,Johannesburg,10-02-2018,1,6,Not Out,ODI # 3973,43,3,1,97.67,ODI
+567,13,v South Africa,Gqeberha,13-02-2018,1,7,Caught,ODI # 3976,17,1,0,76.47,ODI
+568,DNB,v South Africa,Centurion,16-02-2018,2,DNB,DNB,ODI # 3978,0,0,0,0,ODI
+569,16,v South Africa,Johannesburg,18-02-2018,1,6,Bowled,T20I # 652,11,2,0,145.45,T20
+570,52,v South Africa,Centurion,21-02-2018,1,6,Not Out,T20I # 654,28,4,3,185.71,T20
+571,12,v South Africa,Cape Town,24-02-2018,1,6,Caught,T20I # 655,11,1,0,109.09,T20
+572,11,v Ireland,Dublin (Malahide),27-06-2018,1,4,Caught,T20I # 678,5,1,1,220,T20
+573,DNB,v England,Manchester,03-07-2018,2,DNB,DNB,T20I # 684,0,0,0,0,T20
+574,32,v England,Cardiff,06-07-2018,1,6,Not Out,T20I # 688,24,5,0,133.33,T20
+575,DNB,v England,Bristol,08-07-2018,2,DNB,DNB,T20I # 690,0,0,0,0,T20
+576,DNB,v England,Nottingham,12-07-2018,2,DNB,DNB,ODI # 4014,0,0,0,0,ODI
+577,37,v England,Lord's,14-07-2018,2,6,Caught,ODI # 4016,59,2,0,62.71,ODI
+578,42,v England,Leeds,17-07-2018,1,5,Caught,ODI # 4018,66,4,0,63.63,ODI
+579,0,v Hong Kong,Dubai (DSC),18-09-2018,1,5,Caught,ODI # 4039,3,0,0,0,ODI
+580,DNB,v Pakistan,Dubai (DSC),19-09-2018,2,DNB,DNB,ODI # 4040,0,0,0,0,ODI
+581,33,v Bangladesh,Dubai (DSC),21-09-2018,2,4,Caught,ODI # 4042,37,3,0,89.18,ODI
+582,DNB,v Pakistan,Dubai (DSC),23-09-2018,2,DNB,DNB,ODI # 4044,0,0,0,0,ODI
+583,8,v Afghanistan,Dubai (DSC),25-09-2018,2,4,Lbw,ODI # 4046,17,0,0,47.05,ODI
+584,36,v Bangladesh,Dubai (DSC),28-09-2018,2,5,Caught,ODI # 4048,67,3,0,53.73,ODI
+585,DNB,v West Indies,Guwahati,21-10-2018,2,DNB,DNB,ODI # 4056,0,0,0,0,ODI
+586,20,v West Indies,Visakhapatnam,24-10-2018,1,5,Bowled,ODI # 4059,25,0,1,80,ODI
+587,7,v West Indies,Pune,27-10-2018,2,6,Caught,ODI # 4062,11,0,0,63.63,ODI
+588,23,v West Indies,Brabourne,29-10-2018,1,5,Caught,ODI # 4063,15,2,0,153.33,ODI
+589,DNB,v West Indies,Thiruvananthapuram,01-11-2018,2,DNB,DNB,ODI # 4064,0,0,0,0,ODI
+590,51,v Australia,Sydney,12-01-2019,2,5,Lbw,ODI # 4077,96,3,1,53.12,ODI
+591,55,v Australia,Adelaide,15-01-2019,2,5,Not Out,ODI # 4078,54,0,2,101.85,ODI
+592,87,v Australia,Melbourne,18-01-2019,2,4,Not Out,ODI # 4079,114,6,0,76.31,ODI
+593,DNB,v New Zealand,Napier,23-01-2019,2,DNB,DNB,ODI # 4082,0,0,0,0,ODI
+594,48,v New Zealand,Mount Maunganui,26-01-2019,1,5,Not Out,ODI # 4085,33,5,1,145.45,ODI
+595,1,v New Zealand,Wellington,03-02-2019,1,5,Bowled,ODI # 4092,6,0,0,16.66,ODI
+596,39,v New Zealand,Wellington,06-02-2019,2,5,Caught,T20I # 735,31,5,1,125.8,T20
+597,20,v New Zealand,Auckland,08-02-2019,2,5,Not Out,T20I # 737,17,1,0,117.64,T20
+598,2,v New Zealand,Hamilton,10-02-2019,2,6,Caught,T20I # 738,4,0,0,50,T20
+599,29,v Australia,Visakhapatnam,24-02-2019,1,5,Not Out,T20I # 748,37,0,1,78.37,T20
+600,40,v Australia,Bengaluru,27-02-2019,1,5,Caught,T20I # 749,23,3,3,173.91,T20
+601,59,v Australia,Hyderabad,02-03-2019,2,5,Not Out,ODI # 4102,72,6,1,81.94,ODI
+602,0,v Australia,Nagpur,05-03-2019,1,7,Caught,ODI # 4106,1,0,0,0,ODI
+603,26,v Australia,Ranchi,08-03-2019,2,5,Bowled,ODI # 4109,42,2,1,61.9,ODI
+604,34,v South Africa,Southampton,05-06-2019,2,5,Caught,ODI # 4150,46,2,0,73.91,ODI
+605,27,v Australia,The Oval,09-06-2019,1,5,Caught,ODI # 4155,14,3,1,192.85,ODI
+606,1,v Pakistan,Manchester,16-06-2019,1,5,Caught,ODI # 4161,2,0,0,50,ODI
+607,28,v Afghanistan,Southampton,22-06-2019,1,5,Stumped,ODI # 4169,52,3,0,53.84,ODI
+608,56,v West Indies,Manchester,27-06-2019,1,6,Not Out,ODI # 4175,61,3,2,91.8,ODI
+609,42,v England,Birmingham,30-06-2019,2,6,Not Out,ODI # 4179,31,4,1,135.48,ODI
+610,35,v Bangladesh,Birmingham,02-07-2019,1,6,Caught,ODI # 4182,33,4,0,106.06,ODI
+611,DNB,v Sri Lanka,Leeds,06-07-2019,2,DNB,DNB,ODI # 4187,0,0,0,0,ODI
+612,50,v New Zealand,Manchester,09-07-2019,2,7,Run Out,ODI # 4190,72,1,1,69.44,ODI
