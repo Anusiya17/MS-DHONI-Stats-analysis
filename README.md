@@ -18,7 +18,6 @@ This Power BI project provides an interactive analysis of **MS Dhoni's** cricket
 - **Data Collection & Cleaning**: Ensured accuracy by sourcing reliable cricket datasets.
 - **Data Modeling**: Used **Power Query** for transformation and **DAX calculations** for key metrics.
 - **Visualization**: Designed insightful charts, graphs, and filters in **Power BI**.
-- **Exploratory Data Analysis (EDA)**: Identified trends, outliers, and key performance indicators.
 
 ## Key Findings 📊
 - **MS Dhoni excelled in pressure situations**, with a higher strike rate in successful chases.
@@ -38,9 +37,7 @@ This Power BI project provides an interactive analysis of **MS Dhoni's** cricket
 4. Explore insights using the interactive visualizations!
 
 ## Preview 📸
-![MS Dhoni Stats Dashboard](path/to/your/screenshot.jpg)  
-*(Replace `path/to/your/screenshot.jpg` with the actual image path after uploading to GitHub)*
-*(Attach a screenshot of the dashboard here)*
+![MS Dhoni Stats Dashboard]  
 
 ## Insights & Learnings 📚
 - Gained expertise in **data storytelling** through visualizations.
