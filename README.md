@@ -37,7 +37,7 @@ This Power BI project provides an interactive analysis of **MS Dhoni's** cricket
 4. Explore insights using the interactive visualizations!
 
 ## Preview 📸
-![MS Dhoni Stats Dashboard]  
+![MS Dhoni Stats Dashboard] https://github.com/Anusiya17/MS-DHONI-Stats-analysis/commit/5b16e340dd687371451fc1ff23418a5bcec07a9f 
 
 ## Insights & Learnings 📚
 - Gained expertise in **data storytelling** through visualizations.
